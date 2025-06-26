@@ -1,4 +1,4 @@
-Hey, I'm Mawiya Manzar! 🚀
+Hey, I'm Mawiya Manzar! 
 I'm an aspiring AI engineer passionate about building intelligent, user-focused solutions that make a difference. I love diving into projects that blend creativity with code, whether it's crafting chatbots, designing recommendation systems, or exploring the latest in AI and ML. My journey is all about learning, experimenting, and sharing my progress—Bhai, you got this! 💪
 🛠️ What I Do
 
