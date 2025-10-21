@@ -1,5 +1,5 @@
 Hey, I'm Mawiya Manzar! 
-I'm an aspiring AI engineer passionate about building intelligent, user-focused solutions that make a difference. I love diving into projects that blend creativity with code, whether it's crafting chatbots, designing recommendation systems, or exploring the latest in AI and ML. My journey is all about learning, experimenting, and sharing my progress—Bhai, you got this! 💪
+I'm an aspiring AI engineer passionate about building intelligent, user-focused solutions that make a difference. I love diving into projects that blend creativity with code, whether it's crafting chatbots, designing recommendation systems, or exploring the latest in AI and ML. My journey is all about learning, experimenting, and sharing my progress.
 🛠️ What I Do
 
 AI & ML: Building conversational AI, recommendation engines, and data-driven apps using tools like LangChain, Pydantic, and Google's Gemini.
@@ -10,7 +10,7 @@ Learning: Currently deep into Krish Naik’s Data Science bootcamp and CampusX�
 💻 Tech Stack
 
 Languages: Python,C++,JavaScript, HTML/CSS
-Frameworks & Tools: LangChain, Flask, Streamlit, React, FastAPI, SQLAlchemy
+Frameworks & Tools: LangChain, Flask, Streamlit, React, FastAPI, SQLAlchemy,React,Express,Nodejs,Typescript
 Databases & APIs: Supabase, REST APIs
 Interests: Conversational AI, LLMs, System design
 
